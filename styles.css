@@ -1,0 +1,33 @@
+*{
+    background-color: yellow;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+.points{
+        display: flex;
+        justify-content: center;
+}
+img{
+    max-width: 260px;
+    max-height: 170px;
+    border: 2px solid black;
+    filter: drop-shadow(0 0 10px );
+}
+.imgs{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    padding-top: 60px;
+}
+button{
+    padding: 0;
+    border: 0;
+}
+.scores{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
