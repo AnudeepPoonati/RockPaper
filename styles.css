@@ -1,5 +1,5 @@
 *{
-    background-color: yellow;
+    background: whitesmoke
 }
 .header{
     display: flex;
@@ -30,4 +30,8 @@ button{
     display: flex;
     justify-content: space-evenly;
     padding-top: 40px;
+}
+.msg{
+    display: flex;
+    justify-content: center;
 }
